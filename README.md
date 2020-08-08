@@ -20,6 +20,7 @@ Function Reservator: Function administration module
     * [1.periodic](#1.periodic)
     * [2.specific](#2.specific)
     * [3.onetime](#3.onetime)
+* [Reference](#Reference)
     
 
 
@@ -53,9 +54,9 @@ Use unpkg CDN: <br>
 
 usage: 
 
-    ```javascript
-    fncRsv(timeType, periodNum, timeValue, function);
-    ```
+```javascript
+fncRsv(timeType, periodNum, timeValue, function);
+```
 
 Such parameter's data type exclude <b>'timeType'</b> is different due to 'timeType'
 
@@ -201,3 +202,7 @@ console.log(regMsg); // Function successfully registered. ~
 // Hello, fncRsv! Logged time is Sat Aug 08 2020 20:16:00 GMT+0900 (GMT+09:00)
 ```
 
+
+## Reference
+
+[https://today-hello.tistory.com/13](https://today-hello.tistory.com/13)
