@@ -43,7 +43,7 @@ Use npm: <br>
 Use unpkg CDN: <br>
 
 ```html
-<script src="https://unpkg.com/fncrsv/lib/index.js"></script>
+<script src="https://unpkg.com/fncrsv@latest/lib/fncRsv.min.js"></script>
 ```
 
 

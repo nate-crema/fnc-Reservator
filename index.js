@@ -1,5 +1,1 @@
-try {
-    require("./lib");
-} catch (e) {
-    require["./lib"];
-}
+require("./lib");
