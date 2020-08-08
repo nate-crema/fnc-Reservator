@@ -1,0 +1,27 @@
+{
+  "name": "fncrsv",
+  "version": "1.0.0",
+  "description": "function Reservator for Node.js",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nate-crema/fnc-Reservator.git"
+  },
+  "keywords": [
+    "reservation",
+    "reserve"
+  ],
+  "author": "nate.crema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nate-crema/fnc-Reservator/issues"
+  },
+  "homepage": "https://github.com/nate-crema/fnc-Reservator#readme"
+}
