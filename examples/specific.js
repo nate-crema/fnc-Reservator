@@ -20,7 +20,7 @@ timeValue: {
 )
 reservFnc: Function that you want to run periodic
 
-fncRsv: (timeType: string, periodNum: number, timeValue: object, reservFnc: function) => void
+fncRsv: (timeType: string, periodNum: number, timeValue: object, reservFnc: function) => String
 
 
 */

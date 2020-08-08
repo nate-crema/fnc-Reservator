@@ -11,7 +11,7 @@ periodNum: Number that you want to run function (0: unlimit)
 timeValue: Interval that you want to run function
 reservFnc: Function that you want to run periodic
 
-fncRsv: (timeType: string, periodNum: number, timeValue: number, reservFnc: function) => void
+fncRsv: (timeType: string, periodNum: number, timeValue: number, reservFnc: function) => String
 
 
 */

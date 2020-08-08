@@ -11,7 +11,7 @@ periodNum: null (no need in this option)
 timeValue: Time that run function (YYYYMMDDHHMMSS)
 reservFnc: Function that you want to run periodic
 
-fncRsv: (timeType: string, periodNum: null, timeValue: string, reservFnc: function) => void
+fncRsv: (timeType: string, periodNum: null, timeValue: string, reservFnc: function) => String
 
 
 */
