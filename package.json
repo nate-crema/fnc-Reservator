@@ -1,6 +1,6 @@
 {
   "name": "fncrsv",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "function Reservator for Node.js",
   "main": "index.js",
   "directories": {

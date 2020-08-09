@@ -16,10 +16,10 @@ Function Reservator: Function administration module
 * [Introduction](#Introduction)
 * [Installing](#Installing)
 * [Usage](#Usage)
-    * [0.default](#0.default)
-    * [1.periodic](#1.periodic)
-    * [2.specific](#2.specific)
-    * [3.onetime](#3.onetime)
+    * [0.default](#0default)
+    * [1.periodic](#1periodic)
+    * [2.specific](#2specific)
+    * [3.onetime](#3onetime)
 * [Reference](#Reference)
     
 
@@ -30,7 +30,12 @@ Function Reservator: Function administration module
 
 ## Introduction
 
-Function-administration module.
+#### Function-administration module.
+
+fncRsv is a module that helps you use function whenever you want. It's simple, and undependent from other modules.
+
+This module run async, which your server (or browser) can do other works while module standby.
+Notice that <b>your server (or browser) can't afford this module if you register lots of functions at once. </b>
 
 
 
